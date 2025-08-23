@@ -2,3 +2,4 @@
 [2026-03-12] #0002  Extracted helper function  // Atualização do main.py
 [2026-03-12] #0003  Simplified conditional branches  // Atualização no main.py
 [2026-03-12] #0004  Added type hints  // feat: adiciona header, cookie e response na API FastAPI
+[2026-03-12] #0005  Removed dead code  // feat: adiciona respostas JSON mais organizadas na API F
