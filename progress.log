@@ -1,1 +1,2 @@
 [2026-03-12] #0001  Added guard clause  // fix: replace 'is' with '==' in published filter
+[2026-03-12] #0002  Extracted helper function  // Atualização do main.py
