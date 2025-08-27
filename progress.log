@@ -3,3 +3,4 @@
 [2026-03-12] #0003  Simplified conditional branches  // Atualização no main.py
 [2026-03-12] #0004  Added type hints  // feat: adiciona header, cookie e response na API FastAPI
 [2026-03-12] #0005  Removed dead code  // feat: adiciona respostas JSON mais organizadas na API F
+[2026-03-12] #0006  Improved error messages  // refactor: organiza rotas com APIRouter em routers/posts
