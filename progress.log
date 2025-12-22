@@ -8,3 +8,4 @@
 [2026-03-12] #0008  Improved error messages  // feat: adiciona conexao SQLite com row_factory e criacao
 [2026-03-12] #0009  Cleaned up unused imports  // feat: implementa CRUD completo de usuarios com Python D
 [2026-03-12] #0010  Added input validation  // feat: adiciona CRUD de posts, batch insert e generator 
+[2026-03-12] #0011  Added input validation  // docs: adiciona README inicial do modulo db-api
