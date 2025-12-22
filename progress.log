@@ -7,3 +7,4 @@
 [2026-03-12] #0007  Reorganised folder structure  // chore: inicializa estrutura do projeto db-api
 [2026-03-12] #0008  Improved error messages  // feat: adiciona conexao SQLite com row_factory e criacao
 [2026-03-12] #0009  Cleaned up unused imports  // feat: implementa CRUD completo de usuarios com Python D
+[2026-03-12] #0010  Added input validation  // feat: adiciona CRUD de posts, batch insert e generator 
