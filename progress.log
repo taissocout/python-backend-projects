@@ -9,3 +9,4 @@
 [2026-03-12] #0009  Cleaned up unused imports  // feat: implementa CRUD completo de usuarios com Python D
 [2026-03-12] #0010  Added input validation  // feat: adiciona CRUD de posts, batch insert e generator 
 [2026-03-12] #0011  Added input validation  // docs: adiciona README inicial do modulo db-api
+[2026-03-12] #0012  Improved variable naming  // docs: documenta conceitos fundamentais de bancos de dad
