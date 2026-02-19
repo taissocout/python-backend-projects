@@ -15,3 +15,4 @@
 [2026-03-12] #0015  Simplified loop with list comprehension  // feat: adiciona configuracoes PRAGMA para seguranca e pe
 [2026-03-12] #0016  Added guard clause  // feat: adiciona main.py com teste de conexao e encerrame
 [2026-03-12] #0017  Added input validation  // feat: cria modulo schema.py para gerenciamento de estru
+[2026-03-12] #0018  Simplified loop with list comprehension  // feat: cria tabela usuarios com PK autoincrement e campo
